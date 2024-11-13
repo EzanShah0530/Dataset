@@ -1,0 +1,3 @@
+An example picture from the t dataset depicting a High
+An example picture from the t dataset depicting a Low
+An example picture from the t dataset depicting a Medium

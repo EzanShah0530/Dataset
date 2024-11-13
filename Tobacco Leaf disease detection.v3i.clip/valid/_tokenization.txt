@@ -1,0 +1,3 @@
+An example picture from the Tobacco Leaf disease detection dataset depicting a alternaria alternata
+An example picture from the Tobacco Leaf disease detection dataset depicting a cercospora nicotianae
+An example picture from the Tobacco Leaf disease detection dataset depicting a no cercospora nicotianae or alternaria alternata present
